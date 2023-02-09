@@ -8,6 +8,8 @@ public class App {
 
         String nomeCompletro = nomeCompleto(nome1, nome2);
         System.out.println(nomeCompletro);
+        System.out.println(nomeCompletro);
+        System.out.println(nomeCompletro);
 
     }
 
